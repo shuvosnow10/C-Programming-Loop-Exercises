@@ -1,0 +1,34 @@
+1. Take a number, n from keyboard. Print the numbers from 0 to n.
+2. Take a number, n from keyboard. Print the even numbers from 2 to n.
+3. Take a number, n from keyboard. Print the odd numbers from 1 to n.
+4. Take a number, n from keyboard. Print the numbers from 0 to n which are multiple of another number, x. For example, if n=10 and x=2, then the output numbers are 0, 2, 4, 6, 8, 10.
+5. Take an integer number from keyboard. Print its multiplication table.
+6. Input the value of n. Then solve the following series (step-by-step, not using the formula):
+   1+3+5+……+(2n-1)
+7. Input the value of n. Then solve the following series (step-by-step, not using the formula):
+   2+4+6+……+2n
+8. Input the value of n. Then solve the following series (step-by-step, not using the formula):
+   1²+3²+5²+……+(2n-1)²
+9. Input the value of n. Then solve the following series (step-by-step, not using the formula):
+   2²+4²+6²+……+(2n)²
+10. Input the value of n. Then solve the following series (step-by-step, not using the formula):
+    1+1/2+1/3+……+1/n
+11. Input the value of n. Then solve the following series (step-by-step, not using the formula):
+    1+1/2²+1/3²+……+1/n²
+12. Input the value of n. Then solve the following series (step-by-step, not using the formula):
+    1+1/3+1/5+……+1/(2n-1)
+13. Input the value of n. Then solve the following series (step-by-step, not using the formula):
+    1/2²+1/4²+1/6²+……+1/(2n)²
+14. Find the factorial of a given number, n.
+15. Find the sum of all constituent digit(s) of a taken integer number from keyboard.
+16. The numbers in the sequence 1 1 2 3 5 8 13 21…… is called Fibonacci numbers. Use loop structure to calculate and print the first n Fibonacci numbers.
+17. Write a C program to count number of digits in a number.
+18. Write a C program to find first and last digit of a number.
+19. Write a C program to find sum of first and last digit of a number.
+20. Write a C program to calculate sum of digits of a number.
+21. Write a C program to calculate product of digits of a number.
+22. Write a C program to enter a number and print its reverse.
+23. Write a C program to check whether a number is palindrome or not.
+24. Write a C program to find power of a number using loop.
+25. Write a C program to check whether a number is Prime number or not.
+26. Write a C program to check whether a number is Armstrong number or not.
